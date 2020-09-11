@@ -1,4 +1,11 @@
-### Hi there 👋
+Wannabe developer, worked with JavaScript for the last four years which sparked an interest in learning more about JavaScript, front end and back end development.
+
+Currently learning:
+```
+  - React
+  - React-Bootstrap
+  - Typescript
+```
 
 <!--
 **nathan-snelson/nathan-snelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
