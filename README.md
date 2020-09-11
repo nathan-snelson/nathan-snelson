@@ -1,4 +1,4 @@
-###Hi There!
+### Hi There!
 Wannabe developer, worked with JavaScript for the last four years which sparked an interest in learning more about JavaScript, front end and back end development.
 
 Currently learning:
