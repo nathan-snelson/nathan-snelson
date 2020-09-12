@@ -10,8 +10,8 @@ Current working on:
   - Event management webapp
   
 How to Reach me:
-  email: nathansnelson97@gmail.com
-  twitter: @Nathan_Snelson
+  - email: nathansnelson97@gmail.com
+  - twitter: @Nathan_Snelson
 
 <!--
 **nathan-snelson/nathan-snelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
