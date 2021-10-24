@@ -3,11 +3,10 @@ Javascript developer, worked with JavaScript for the last four years which spark
 
 Currently learning:
   - React
-  - Tailwind
   - Typescript
 
 Current working on:
-  - Progress tracking webapp
+  - Tournament management app
   
 How to reach me:
   - email: nathansnelson97@gmail.com
