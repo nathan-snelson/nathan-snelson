@@ -6,7 +6,7 @@ Currently learning:
   - Typescript
 
 Current working on:
-  - Tournament management app
+  - Competition management app
   
 How to reach me:
   - email: nathansnelson97@gmail.com
