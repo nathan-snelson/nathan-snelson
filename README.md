@@ -9,7 +9,7 @@ Currently learning:
 Current working on:
   - Progress tracking webapp
   
-How to Reach me:
+How to reach me:
   - email: nathansnelson97@gmail.com
   - twitter: @Nathan_Snelson
 
