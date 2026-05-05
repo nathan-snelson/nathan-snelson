@@ -1,10 +1,9 @@
 ### Hi There!
-Javascript developer, worked with JavaScript for the last four years which sparked an interest in learning more about JavaScript, front end and back end development.
+Frontend developer, just under ten years industry experience using JavaScript and various frameworks such as React, Vue and Angular.
 
 Currently learning:
-  - React
-  - Nextjs
   - Typescript
+  - Vue
   
 How to reach me:
   - email: nathansnelson97@gmail.com
