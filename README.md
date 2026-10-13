@@ -2,8 +2,7 @@
 Frontend developer, just under ten years industry experience using JavaScript and various frameworks such as React, Vue and Angular.
 
 Currently learning:
-  - Typescript
-  - Vue
+  - Nextjs
   
 How to reach me:
   - email: nathansnelson97@gmail.com
